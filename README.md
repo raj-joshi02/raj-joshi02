@@ -21,8 +21,8 @@ Here are some of my highlighted projects:
 
 - **[Simple Calculator](https://github.com/raj-joshi02/Calculator)** – Responsive calculator with attractive UI using HTML, CSS & JS  
 - **[Digital & Analog Clock](https://github.com/raj-joshi02/digital-clock)** – Toggle between digital & analog clocks with smooth animations 
-- **[Weather App](https://github.com/raj-joshi02/WeatherApp)** – Toggle between digital & analog clocks with smooth animations 
-- **[Digital & Analog Clock](https://github.com/raj-joshi02/Secruix)** – Toggle between digital & analog clocks with smooth animations 
+- **[Weather App](https://github.com/raj-joshi02/WeatherApp)** – Get to know about Weather condition of any city with a mordern UI 
+- **[Securix - Password Manager](https://github.com/raj-joshi02/Securix)** – Managing Password is now easier with Securix 
 - **[ Currently working on More ]** 
 
 *(You can pin these repos to your profile for better visibility)*
